@@ -1,0 +1,3 @@
+This is the classic snake game. Enjoy!
+
+Auther: Nardos Wehabe

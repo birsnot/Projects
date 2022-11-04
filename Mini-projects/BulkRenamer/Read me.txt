@@ -1,0 +1,6 @@
+This program is used rename many files with the same substring at once.
+For instance some browsers when downloading they replace any space with "%20", and some sites add thier site name at the end of a file.
+If we download many files it would be time wasting to rename all the files to thier orginal name.
+This is one of the situations when this program comes in handy.
+
+Auther: Nardos Wehabe

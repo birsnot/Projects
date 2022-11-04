@@ -1,0 +1,3 @@
+This is the classic pong game with the first player using Down and Up arrows, and the second player using W and S to play. Enjoy!
+
+Auther: Nardos Wehabe

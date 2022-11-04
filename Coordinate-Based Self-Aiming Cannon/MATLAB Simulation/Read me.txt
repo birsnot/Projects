@@ -1,0 +1,17 @@
+MATLAB physics simulation functions discription
+
+CannonDeg - used to simulate the results from Proteus simulation(to
+	    test whether it hits the target or not)
+
+CannonXY - used to simulate the total system using the approximated 
+	   functions(to test whether the approximation is erroneous)
+
+tani - used to approximate tan inverse function. It will be called 
+       inside CannonXY function. The same function is used inside
+       the microcontroller.
+
+
+- To turn on and off the trajectory of all 4 simulations you can uncomment
+  and comment codes:
+ 	%     plot(sx,sy,'b-'); hold on % on/off trajectary
+	%     plot(tx,ty,'b-'); hold on; %on/off trajectary

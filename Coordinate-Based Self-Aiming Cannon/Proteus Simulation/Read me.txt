@@ -1,0 +1,18 @@
+Proteus simulation help
+
+- The project is prepared for 1m by 1m firing zone, where the cannon
+  is placed at the center, so, if you enter coordinates with their
+  magnitude greater than 0.5 you might not get a good result of theta
+  (angle from the ground).
+
+- The length of the cannon barrel is 0.1m, so, if you enter two
+  coordinates with square_root(x^2 + y^2) less than 0.2m (danger zone
+  for the cannon itself), you might not get a good result.
+
+- In the MATLAB simulation, you will get "Out of Range!" message for 
+  situations like above. 
+
+- If the simulation is not working, try to add the hex file by double
+  clicking the PIC18F43K22 model.
+
+- Cannon.X is the project folder for MPLAB

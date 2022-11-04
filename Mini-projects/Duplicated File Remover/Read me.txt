@@ -1,0 +1,5 @@
+This program is used to delete duplicated files within one folder.
+You can enter the substring that indicates duplication for instance "_copy", but the default is " (1)".
+The program don't just delete all files containing this substring, it also check if thier is same file without the substring within the same folder.
+
+Auther: Nardos Wehabe
