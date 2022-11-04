@@ -1,4 +1,4 @@
-This program is used copy files (only thier names) without copying its data from one directory to another.
+This program is used copy files (only thier names without copying its data) from one directory to another.
 For instance if we want to copy encrypted files with no read access we can't, but one may need to copy at least what contents were in what folder or the name of each files.
 This is one of the situations when this program comes in handy.
 
